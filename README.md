@@ -7,6 +7,9 @@ Arapahoe, Denver, and Jefferson, and the 3 candidates who were in the race as we
 Charles Casper Stockham, Diana DeGette, and Raymon Anthony Doane. To analyze it, I used Python
 to look into how the total votes from all three counties were distributed among the three candidates 
 and how the total votes were distributed among the three counties. 
+What I found was there were 369,711 votes overall, Denver county was the largest county in the data set
+with 82.8% of the votes (306,055 total), Jefferson County followed with 10.5% and Arapahoe County rounded it out with 6.7%. 
+It was also determined that Diana Degette won the election with 73.8% (272,892 total votes) of the vote. 
 ------------------------------------------------------
 # What was done
 * Took a csv with all vote data and used it for our analysis. 
